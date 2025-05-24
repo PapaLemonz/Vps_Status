@@ -24,8 +24,8 @@ The CSV file must include these columns:
 
 | client       | ip              | spec | reg_date  | warranty |
 |--------------|-----------------|------|-----------|----------|
-| verindersingh| 143.198.208.133:22 | 8gb  | 14/5/2025 | 1        |
-| azuanrudin   | 139.59.250.124:22 | 8gb  | 19/5/2025 | 1        |
+| verindersingh| 143.118.248.133:22 | 8gb  | 14/5/2025 | 1        |
+| azuanrudin   | 139.50.150.124:22 | 8gb  | 19/5/2025 | 1        |
 | ...          | ...             | ...  | ...       | ...      |
 
 - `reg_date` format: `dd/mm/yyyy`
